@@ -69,4 +69,6 @@ crontab -e
 0 2 * * * /home/ubuntu/cron-framework/venv/bin/python /home/ubuntu/cron-framework/wrapper.py /home/ubuntu/cron-framework/jobs/backup.py
 ```
 
-!(cronejob.png)
+## Result
+
+![Cron Framework Architecture](cronejob.png)
