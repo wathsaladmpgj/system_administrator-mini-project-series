@@ -148,8 +148,7 @@ sudo /usr/share/elasticsearch/bin/elasticsearch-create-enrollment-token -s kiban
 sudo /usr/share/kibana/bin/kibana --allow-root
 ```
 
-
-
+![Cron Framework Architecture](kibanaimage.png)
 
 
 
