@@ -46,6 +46,11 @@ crontab -e
 Compleet !
 
 
+![Cron Framework Architecture](cjob.png)
 
 
-
+- Check if Cron Runs
+```text
+cat ~/patch-management/logs/patch.log
+```
+![Cron Framework Architecture](patch.png)
